@@ -1,13 +1,13 @@
 ![alt text](dwm.png "dwm logo")
-# dwm - dynamic window manager
-============================
+dwm - dynamic window manager
+==============================
 dwm is an extremely fast, small, and dynamic window manager for X.
 
 
 Requirements
 ------------
 In order to build dwm you need the Xlib header files.
-
+Requiered packages for scripts(bgsh & screensh): maim, xorg-xclip, feh.
 
 Installation
 ------------
