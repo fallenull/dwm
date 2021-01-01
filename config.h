@@ -20,11 +20,11 @@ static const char *colors[][3]      = {
 
 static const char *const autostart[] = {
 	"bgsh", NULL,
-	NULL /* terminate */
+	"pish", NULL /* terminate */
 };
 
 /* tagging */
-static const char *tags[] = { "Main", "Netw", "Term", "Tlgm", "Psi", "6", "7", "8", "Trsh" };
+static const char *tags[] = { "Main", "Netw", "Term", "Tlgm", "Psi", "6", "7", "8", "9" };
 
 static const Rule rules[] = {
 	/* xprop(1):
