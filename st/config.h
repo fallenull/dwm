@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "terminus:pixelsize=15:antialias=true:autohint=true";
+static char *font = "ibm plex mono:pixelsize=15:antialias=true:autohint=true";
 static int borderpx = 2;
 
 /*
