@@ -24,7 +24,7 @@ static const char *const autostart[] = {
 };
 
 /* tagging */
-static const char *tags[] = { "Main", "Netw", "Term", "Tlgm", "Psi", "6", "7", "8", "Trsh" };
+static const char *tags[] = { "Main", "Netw", "Term", "4", "5", "6", "7", "8", "Trsh" };
 
 static const Rule rules[] = {
 	/* xprop(1):
