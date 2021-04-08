@@ -21,6 +21,8 @@ necessary as root):
 
     make clean install
 
+Then u need to download ur wallpaper and save it as `~/.wallp.png`
+
 
 Running dwm
 -----------
