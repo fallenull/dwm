@@ -7,7 +7,7 @@ dwm is an extremely fast, small, and dynamic window manager for X.
 
 Screenshot
 ----------
-![](screenshot.png "screenshot)
+![](screenshot.png "screenshot")
 
 Requirements
 ------------
