@@ -25,7 +25,8 @@ static const char *colors[][3]      = {
 
 static const char *const autostart[] = {
 	"bgsh", NULL,
-	"pish", NULL /* terminate */
+	"pish", NULL,
+	"compton", "-f", "-c", "-b", NULL /* terminate */
 };
 
 /* tagging */
