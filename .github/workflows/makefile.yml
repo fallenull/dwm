@@ -8,7 +8,7 @@ on:
 
 jobs:
   fallen:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     steps:
       - name: say hello
         run: echo "Hello world!"
