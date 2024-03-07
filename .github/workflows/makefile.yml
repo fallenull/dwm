@@ -12,3 +12,9 @@ jobs:
     steps:
       - name: say hello
         run: echo "Hello world!"
+
+  build:
+    runs-on: self-hosted
+    steps:
+      - name: using Makefile
+        run: make
