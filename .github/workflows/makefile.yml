@@ -11,4 +11,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: say hello
-      run: echo "Hello world!"
+        run: echo "Hello world!"
