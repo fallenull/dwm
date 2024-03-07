@@ -17,4 +17,4 @@ jobs:
     runs-on: self-hosted
     steps:
       - name: using Makefile
-        run: make
+        run: ls && cd .. && make
